@@ -1,7 +1,7 @@
 # Diskfetch                                                          #
 # Have a quick look for your disk info and ASCII Logo of disk maker. #
 # LICENCE: GPL v3                                                    #
-# Copyright (C) 2025 HOE Software Team.                              #
+# Copyright (C) 2025 GoldenHoe & HOE Software Team.                  #
 
 
 import platform
